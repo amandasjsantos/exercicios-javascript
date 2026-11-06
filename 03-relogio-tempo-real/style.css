@@ -1,0 +1,14 @@
+body {
+  background-color: #c71585;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  margin: 2em;
+  text-align: center;
+  font-size: 70px;
+}
